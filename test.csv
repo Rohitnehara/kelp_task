@@ -1,0 +1,6 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender
+John,Doe,35,123 Main St,Apt 4B,New York,NY,male
+Jane,Smith,28,456 Park Ave,Suite 789,Los Angeles,CA,female
+young,Smith,12,456 Park Ave,Suite 789,Los Angeles,CA,female
+very young,Smith,8,456 Park Ave,Suite 789,Los Angeles,CA,female
+Old,Smith,98,456 Park Ave,Suite 789,Los Angeles,CA,female
