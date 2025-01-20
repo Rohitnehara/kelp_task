@@ -17,8 +17,9 @@ This API allows for uploading CSV files, parsing the data, and inserting it into
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repository-name
-   cd your-project-name
+   git clone git clone https://github.com/Rohitnehara/kelp_task.git
+
+   cd kelp_task
 
 
 
