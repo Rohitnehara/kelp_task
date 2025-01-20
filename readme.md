@@ -33,3 +33,8 @@ This API allows for uploading CSV files, parsing the data, and inserting it into
     # for prod
     npm start
 
+4. **Curl for uploading csv**
+   ```bash
+    curl -X POST -F "file=@path-to-your-csv-file.csv" http://localhost:3000/upload
+
+
